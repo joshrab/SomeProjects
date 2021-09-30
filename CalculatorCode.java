@@ -12,7 +12,7 @@
       * x to the power of y
       * Squaring
 */
-import java.util.*; 
+import java.util.Scanner; 
 public class CalculatorCode {
   
   public static addNumbers(double a, double b) {
