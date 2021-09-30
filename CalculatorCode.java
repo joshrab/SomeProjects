@@ -22,6 +22,7 @@ public class CalculatorCode {
     b = scanDouble.nextDouble(); 
     
     return a+b; 
+  }
 
   public static subtractNumbers(double a, double b) {
     
