@@ -5,6 +5,7 @@ No description necessary. Pretty self explanatory.
   but if its cheap and easy I'll definitely try!  And if coding that in Java goes successfully, I'll try it in JavaScript
   or C++ or something new, ya know? Just to practice.
   2. If I get good enough, I'll attempt a to-do list/planner
-  3. ????
+  3. Weather App?
+  4. ????
 
 Thanks for reading this garbage!
